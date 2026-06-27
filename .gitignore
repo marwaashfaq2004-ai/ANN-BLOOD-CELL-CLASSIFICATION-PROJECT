@@ -1,0 +1,9 @@
+drive/
+data/raw/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+_pycache_/
+.ipynb_checkpoints/
